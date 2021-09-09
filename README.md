@@ -23,4 +23,11 @@
 
 4)Get-->http://localhost:3000/findByProductId
 
+5)Patch-->http://localhost:3000/product/updateNameByProductId?productId=""
+
+6)Delete-->http://localhost:3000/product/deleteByProductId
+
+Steps to run Node JS Application
+
+
 

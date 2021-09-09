@@ -29,5 +29,15 @@
 
 Steps to run Node JS Application
 
+1)Run git clone -b https://github.com/Ashwathshetty-tech/jwt_CRUD.git in CLI or download and unzip the file
 
+2)Run npm install
 
+3)Install mailDev to see all the triggered mail after registration.
+-- run npm install -g maildev
+-- run mailDev
+
+4)Run npm run start
+
+5)Test Api's using postman or any API testing tool
+    

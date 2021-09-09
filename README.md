@@ -6,13 +6,21 @@
 5. List assigned products for a given user-id (filterable by brand and category)
 
 #APIs created
+
 #Users
-Post-->http://localhost:3000/register
-Post-->http://localhost:3000/login
+
+1)Post-->http://localhost:3000/register
+
+2)Post-->http://localhost:3000/login
+
 #Products
-Post-->http://localhost:3000/
-Post-->http://localhost:3000/find
-Put-->http://localhost:3000/product/updateById/:id
-Get-->http://localhost:3000/findByProductId
+
+1)Post-->http://localhost:3000/
+
+2Post-->http://localhost:3000/find
+
+3)Put-->http://localhost:3000/product/updateById/:id
+
+4)Get-->http://localhost:3000/findByProductId
 
 

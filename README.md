@@ -9,11 +9,16 @@
 
 #Users
 
+ #Signup and login using Email and Password and return JWT token with a success response
+ 
+ #Send a verification link on email when the user registers for the first time and verify the user account after clicking on the verification link.  
 1)Post-->http://localhost:3000/register
 
 2)Post-->http://localhost:3000/login
 
 #Products
+
+#Create CRUD operations for a product table (with category, brand, and name) 
 
 1)Post-->http://localhost:3000/
 
@@ -29,7 +34,10 @@
 
 7)Post-->http://localhost:3000/welcome
 
+#Implement the functionality to assign products to Users (many-to-many)
+
 8)Post-->http://localhost:3000/user/product
+
 
 Steps to run Node JS Application
 

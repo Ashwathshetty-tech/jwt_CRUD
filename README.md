@@ -27,6 +27,10 @@
 
 6)Delete-->http://localhost:3000/product/deleteByProductId
 
+7)Post-->http://localhost:3000/welcome
+
+8)Post-->http://localhost:3000/user/product
+
 Steps to run Node JS Application
 
 1)Run git clone -b https://github.com/Ashwathshetty-tech/jwt_CRUD.git in CLI or download and unzip the file

@@ -38,6 +38,14 @@
 
 8)Post-->http://localhost:3000/user/product
 
+#List assigned products for a given user-id (filterable by brand and category)
+
+9)Post-->http://localhost:3000/user/getProductByUserId/:id
+
+#Email Verification
+10)Get-->http://localhost:3000/verify?id=122
+
+
 
 Steps to run Node JS Application
 
